@@ -22,7 +22,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 ## 💻 GitHub Profile Stats
 <div style="display: flex;">
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=mudabbir-ali-tx&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Syed Mudabbir Ali's github stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed Mudabbir Ali&layout=compact&theme=radical" alt="Syed Mudabbir Ali's github top used language" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudabbir-ali-tx&layout=compact&theme=radical" alt="Syed Mudabbir Ali's github top used language" />
 </div>
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
