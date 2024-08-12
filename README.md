@@ -12,7 +12,7 @@ The world can be an overwhelming place, so I help make people’s lives easier b
 
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-- 🖥️ I have been working for Zweidevs Private Limited as a Software Engineer.
+- 🖥️ I have been working for Zweidevs Private Limited as a Senior Software Engineer.
 - 🖨️ I have worked with Ruby on Rails, Ruby, PHP, and JavaScript, and databases including MS SQL, Firebase, MongoDB, and DynamoDB.
 - 🧑‍💻 Besides having great skills, I believe learning must never end! I have learned many new skills such as Team Work, Management, and Relation Building.
 - 🎾 In my free time, I am a gaming geek; I love to play PUBG Multiplayer and Story Mode Games.
@@ -21,7 +21,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 
 ## 💻 GitHub Profile Stats
 <div style="display: flex;">
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=mudabbirsyed&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Syed Mudabbir Ali's github stats" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=mudabbir-ali-tx&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Syed Mudabbir Ali's github stats" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudabbirsyed&layout=compact&theme=radical" alt="Syed Mudabbir Ali's github top used language" />
 </div>
 
