@@ -21,11 +21,11 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 
 ## 💻 GitHub Profile Stats
 <div style="display: flex;">
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=SyedMudabbirAli&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Syed Mudabbir Ali's github stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMudabbirAli&layout=compact&theme=radical" alt="Syed Mudabbir Ali's github top used language" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=mudabbirsyed&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Syed Mudabbir Ali's github stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudabbirsyed&layout=compact&theme=radical" alt="Syed Mudabbir Ali's github top used language" />
 </div>
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 **Commit History:**
-[![Syed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SyedMudabbirAli&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Syed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mudabbirsyed&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
