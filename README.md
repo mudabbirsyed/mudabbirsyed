@@ -11,13 +11,51 @@ The world can be an overwhelming place, so I help make people’s lives easier b
 <img src="zd_badge.png" width="200" align="right" alt="avatar"/>
 
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+<h2> 👨‍💻 Know Me </h2>
 
-- 🖥️ I have been working for Zweidevs Private Limited as a Senior Software Engineer.
-- 🖨️ I have worked with Ruby on Rails, Ruby, PHP, and JavaScript, and databases including MS SQL, Firebase, MongoDB, and DynamoDB.
-- 🧑‍💻 Besides having great skills, I believe learning must never end! I have learned many new skills such as Team Work, Management, and Relation Building.
-- 🎾 In my free time, I am a gaming geek; I love to play PUBG Multiplayer and Story Mode Games.
-- ⛰️ Love exploring off-beat hikes and peaks in Northern Pakistan. My absolute favorite: [Siri Paye Meadows](https://goo.gl/maps/zV3r6AYPzJPiWTPC9).
-- 😄 Pronouns: He/him.
+- 🔭 I’m currently working on Web Applications
+- 🌱 Learning Backend Development (Python, Generative AI, LLM)
+- 💬 Interested in open source projects collaboration and app Security.
+- 😄 Pronouns: He/Him
+- ⚡  Motivated ✨
+- 👯 I’m looking to collaborate on Generative AI, fintech & block-chain technology web application projects
+- 💬 Ask me about Full-stack Web Applications
+- 📫 How to reach me: mudabbirsyedali@gmail.com
+- ⚡ Fun fact: The first computer “bug” was an actual real-life bug.
+
+<br/>
+
+<h2> 🛠️ Languages and Tools </h2>
+
+<div align="center">
+                <br>
+                    <div align="center" >  
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
+		      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="JS" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="75" height="75" /> 
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75" height="75" />
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="rails" width="75" height="75" />
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75" />
+                      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
+                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="75" height="75"/ />
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/>
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="75" height="75" />
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" width="75" height="75" />
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="75" height="75" />
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="75" height="75" />
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="75" height="75" />
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="75" height="75" />
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="75" height="75" />
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="75" height="75" />
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="75" height="75" />
+                </div>
+</div>
+
+<br>
 
 ## 💻 GitHub Profile Stats
 <div style="display: flex;">
