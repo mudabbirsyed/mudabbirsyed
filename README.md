@@ -10,7 +10,6 @@ The world can be an overwhelming place, so I help make people’s lives easier b
 
 <img src="zd_badge.png" width="200" align="right" alt="avatar"/>
 
-Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 <h2> 👨‍💻 Know Me </h2>
 
 - 🔭 I’m currently working on Web Applications
@@ -61,6 +60,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 <div style="display: flex;">
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=mudabbir-ali-tx&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Syed Mudabbir Ali's github stats" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudabbir-ali-tx&layout=compact&theme=radical" alt="Syed Mudabbir Ali's github top used language" />
+	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudabbir-ali-tx&theme=dark" alt="mudabbir-ali-tx" /></p>
 </div>
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
