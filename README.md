@@ -57,7 +57,7 @@ The world can be an overwhelming place, so I help make people’s lives easier b
 <div style="display: flex;">
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=mudabbir-ali-tx&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Syed Mudabbir Ali's github stats" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudabbir-ali-tx&layout=compact&theme=radical" alt="Syed Mudabbir Ali's github top used language" />
-	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudabbir-ali-tx&theme=dark" alt="mudabbir-ali-tx" /></p>
+	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudabbirsyed&theme=dark" alt="mudabbir-ali-tx" /></p>
 </div>
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
